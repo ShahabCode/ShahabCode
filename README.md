@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Shahab!</h1>
 
 <p align="center">
-  I'm an aspiring <b>Penetration Tester</b> and <b>Bug Bounty Hunter</b>.<br>
-  I'm currently training in <b>Web Security</b> and <b>Practical Exploit Labs</b> to discover vulnerabilities.
+  I’m on my way to becoming a <b>Penetration Tester</b> and <b>Bug Bounty Hunter</b> 🐞🔍.<br>
+  I'm currently training in <b>Web Security</b> and <b>Practical Exploit Labs</b> to discover vulnerabilities 💻🔐.
 </p>
 
 ---
@@ -13,9 +13,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="NodeJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="70" height="45" alt="ExpressJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </p>
 
 ---
@@ -33,4 +33,4 @@
 
 ---
 
-<h3 align="center">🔥Resurge like the Phoenix.</h3>
+<h5 align="center"><em>"Resurge like the Phoenix!"</em></h5>
