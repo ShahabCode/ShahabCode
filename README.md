@@ -15,12 +15,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="70" height="45" alt="ExpressJS"/>
+  <img src="https://cdn.simpleicons.org/express/ffffff" width="50" height="45" alt="ExpressJS"/>
 </p>
 
 ---
 
-## 🛡️ Offensive Security & Pentesting Tools
+## 🛡️ Security Tools
 
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-orange?style=flat&logo=burpsuite&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-yellow?style=flat)
