@@ -4,8 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9&text=Shahab%20Dargazani&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Backend%20Developer%20%7C%20CyberSecurity%20Enthusiast%20&descSize=20&descAlignY=61&animation=twinkling"/>
 </p>
 
-<!-- ### Backend Developer · Security Researcher · Bug Bounty Hunter -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+secure+backends+with+Django;PostgreSQL+%7C+Docker+%7C+DRF;Breaking+things+to+make+them+stronger;Web+Security+%26+Bug+Bounty+Hunter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+secure+backends+with+Django;PostgreSQL+DRF;Breaking+things+to+make+them+stronger;Web+Security+%26+Bug+Bounty+Hunter)](https://git.io/typing-svg)
 
 </div>
 
@@ -77,19 +76,11 @@ $ cat shahab.config
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShahabCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9"/>
 
 </div>
-
----
-
-<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShahabCode&color=00FF9C&style=flat-square&label=Profile+Views)
 
