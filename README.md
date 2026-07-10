@@ -81,8 +81,9 @@ $ cat shahab.config
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShahabCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF"/>
 
 </div>
 
@@ -90,7 +91,7 @@ $ cat shahab.config
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF9C&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=ShahabCode&color=00FF9C&style=flat-square&label=Profile+Views)
 
 ```
 /* The best code is secure code */
