@@ -75,6 +75,11 @@ $ cat shahab.config
 | ![FFUF](https://img.shields.io/badge/FFUF-lightgrey?style=flat-square) ![Nuclei](https://img.shields.io/badge/Nuclei-0099FF?style=flat-square) | ![SQLMap](https://img.shields.io/badge/SQLMap-yellow?style=flat-square) ![Commix](https://img.shields.io/badge/Commix-blue?style=flat-square) ![Tplmap](https://img.shields.io/badge/Tplmap-purple?style=flat-square) | ![JWT_Tool](https://img.shields.io/badge/JWT_Tool-black?style=flat-square) ![CookieMonster](https://img.shields.io/badge/CookieMonster-teal?style=flat-square) |
 
 ---
+<div align="center">
+
+<code>/* The best code is secure code. */</code>
+
+</div>
 
 <div align="center">
 
@@ -82,10 +87,5 @@ $ cat shahab.config
 
 </div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ShahabCode&color=00FF9C&style=flat-square&label=Profile+Views)
 
-```
-/* The best code is secure code */
-```
 
-</div>
