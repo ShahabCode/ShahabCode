@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="60%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<img align="right" width="70%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 <br><br><br>
 
