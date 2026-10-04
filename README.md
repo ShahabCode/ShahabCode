@@ -1,19 +1,19 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9&text=Shahab%20Dargazani&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Backend%20Developer%20%7C%20CyberSecurity%20Enthusiast%20&descSize=20&descAlignY=61&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9&text=Shahab%20Dargazani&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Backend%20Developer%20%7C%20CyberSecurity%20Enthusiast&descSize=20&descAlignY=61&animation=twinkling"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+secure+backends+with+Django;PostgreSQL+DRF;Breaking+things+to+make+them+stronger;Web+Security+%26+Bug+Bounty+Hunter)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+secure+backends+with+Django;PostgreSQL+%26+DRF;Breaking+things+to+make+them+stronger;Web+Security+%26+Bug+Bounty+Hunter" />
+  </a>
+</p>
 
 </div>
 
+
 ---
-
-<img align="right" width="68%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-
-<div style="height: 100px;"></div>
-
 
 ## `$ whoami`
 
@@ -26,11 +26,6 @@
 [+] Status     → OPEN TO REMOTE 🟢
 ```
 
-> Building web applications, learning security, and constantly improving.
-
-<br clear="right"/>
-
----
 ---
 
 ## ⚡ Tech Arsenal
