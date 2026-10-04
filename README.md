@@ -12,8 +12,13 @@
 
 </div>
 
+<img align="right" width="68%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
----
+<br>
+<br>
+<br>
+<br>
+
 
 ## `$ whoami`
 
