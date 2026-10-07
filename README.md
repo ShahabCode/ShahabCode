@@ -22,16 +22,14 @@
 <br>
 
 
-## `$ whoami`
+## `$whoami`
 
-```text
-[+] Identity   → Shahab Dargazani
-[+] Role       → Backend Developer
-[+] Location   → Isfahan, IR
-[+] Stack      → Django · DRF · PostgreSQL
-[+] Interest   → Bug Bounty Hunting
-[+] Status     → OPEN TO REMOTE 🟢
-```
+> **[+] Identity** &nbsp;&nbsp;→&nbsp; Shahab Dargazani  
+> **[+] Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; Backend Developer  
+> **[+] Location** &nbsp;&nbsp;→&nbsp; Isfahan, IR  
+> **[+] Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; Django · DRF · PostgreSQL  
+> **[+] Interest** &nbsp;&nbsp;→&nbsp; Bug Bounty Hunting  
+> **[+] Status** &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; OPEN TO REMOTE 🟢
 
 ---
 
@@ -89,7 +87,7 @@
 
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="52" alt="Burp Suite"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/owasp/000000" height="52" alt="OWASP"/>
+<img src="https://cdn.simpleicons.org/owasp/ffffff" height="52" alt="OWASP"/>
 
 </div>
 
@@ -99,27 +97,35 @@
 
 > Tools I use for web application security research and bug bounty hunting.
 
+<div align="center">
+
 | 🔎 Recon & Fuzzing | 💉 Injection & Exploitation | 🔐 Auth & Session |
 | :---: | :---: | :---: |
 | ![FFUF](https://img.shields.io/badge/FFUF-2E8B72?style=flat&logoColor=FFFFFF) ![Nuclei](https://img.shields.io/badge/Nuclei-3B82A0?style=flat&logoColor=FFFFFF) | ![SQLMap](https://img.shields.io/badge/SQLMap-B59B32?style=flat&logoColor=FFFFFF) ![Commix](https://img.shields.io/badge/Commix-BB5962?style=flat&logoColor=FFFFFF) ![Tplmap](https://img.shields.io/badge/Tplmap-8064A2?style=flat&logoColor=FFFFFF) | ![JWT Tool](https://img.shields.io/badge/JWT_Tool-2F91A5?style=flat&logoColor=FFFFFF) ![CookieMonster](https://img.shields.io/badge/CookieMonster-2E8B72?style=flat&logoColor=FFFFFF) |
 
----
+</div>
 
-## 📊 GitHub Stats
+---
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShahabCode&show_icons=true&hide=issues,prs,contribs&hide_border=true&bg_color=0D1117&title_color=6FFFE9&icon_color=5BC0BE&text_color=C9D1D9&ring_color=00FF9C&include_all_commits=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabCode&layout=compact&hide_border=true&bg_color=0D1117&title_color=6FFFE9&text_color=C9D1D9&langs_count=6"/>
+<a href="https://github.com/ShahabCode">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabCode&layout=compact&hide_border=true&bg_color=0D1117&title_color=6FFFE9&text_color=C9D1D9&langs_count=6&hide=html,css"/>
+</a>
 
 <br>
 
-<img height="155" src="https://streak-stats.demolab.com/?user=ShahabCode&hide_border=true&background=0D1117&ring=00FF9C&fire=6FFFE9&currStreakLabel=6FFFE9&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<a href="https://github.com/ShahabCode">
+  <img src="https://streak-stats.demolab.com?user=ShahabCode&theme=dark&hide_border=true&background=0D1117&ring=6FFFE9&fire=5BC0BE&currStreakLabel=6FFFE9"/>
+</a>
 
-<br><br>
+<br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahabCode&bg_color=0D1117&color=6FFFE9&line=00FF9C&point=5BC0BE&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<a href="https://github.com/ShahabCode">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahabCode&theme=github_dark"/>
+</a>
+
 
 </div>
 
