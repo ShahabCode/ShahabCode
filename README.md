@@ -33,7 +33,7 @@
 
 ---
 
-## ⚡ Tech Arsenal
+## 🧰 Languages & Technologies
 
 <div align="center">
 
@@ -43,11 +43,15 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="58" alt="Django"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height="68"  alt="Django REST Framework"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height="68" alt="Django REST Framework"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="58" alt="Node.js"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/express/ffffff" height="52" alt="Express"/>
 
 <br>
 
-<sub>Python &nbsp;•&nbsp; Django &nbsp;•&nbsp; Django REST Framework</sub>
+<sub>Python &nbsp;•&nbsp; Django &nbsp;•&nbsp; Django REST Framework &nbsp;•&nbsp; Node.js &nbsp;•&nbsp; Express</sub>
 
 <br><br>
 
