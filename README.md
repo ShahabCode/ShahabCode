@@ -45,13 +45,16 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height="68" alt="Django REST Framework"/>
 &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/celery/37814A" height="52" alt="Celery"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="58" alt="Node.js"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/express/ffffff" height="52" alt="Express"/>
 
+
 <br>
 
-<sub>Python &nbsp;•&nbsp; Django &nbsp;•&nbsp; Django REST Framework &nbsp;•&nbsp; Node.js &nbsp;•&nbsp; Express</sub>
+<sub>Python &nbsp;•&nbsp; Django &nbsp;•&nbsp; Django REST Framework &nbsp;•&nbsp; Celery &nbsp;•&nbsp; Node.js &nbsp;•&nbsp; Express </sub>
 
 <br><br>
 
@@ -62,6 +65,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="52" alt="CSS3"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="52" alt="JavaScript"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/websocket/icon.svg" height="40" alt="WebSocket" style="filter: brightness(0) invert(1);"/>
 
 <br><br>
 
@@ -72,6 +77,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="52" alt="MongoDB"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="52" alt="MySQL"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="52" alt="Redis"/>
 
 <br><br>
 
@@ -82,8 +89,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="52" alt="Linux"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="52" alt="Docker"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="52" alt="Apache"/>
 
 <br><br>
 
